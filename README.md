@@ -5,7 +5,7 @@ Este guia é destinado à novos e atuais colaboradores do projeto, é completo d
 Pode ser utilizado em **palestras**, **oficinas** e **eventos** do WoMoz Brasil.
 
 ## Como contribuir
-Você pode ajudar a melhorar os nosso guias, os guias foram feitos em programas de vetorização como Illustrator e Corel, com eles é possível editar o arquivo e realizar as melhorias necessárias, depois é só fazer o Fork para o nosso repositório. :D
+<b>Você pode ajudar a melhorar os nossos guias!</b> os mesmos foram feitos em programas de vetorização como Illustrator da Adobe por exemplo, com eles é possível editar o arquivo e realizar as melhorias necessárias, depois é só fazer o "Fork" para o nosso repositório. :D
 
 ## Autor
 
